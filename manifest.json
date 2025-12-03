@@ -1,0 +1,9 @@
+{
+  "display_name": "Avatar Zoom & Pan",
+  "js": "avatar-zoom.js",
+  "author": "OnlyLLogic",
+  "version": "1.0.0",
+  "requires": [],
+  "optional": [],
+  "description": "Позволяет двигать, увеличивать и уменьшать аватарку SillyTavern на полном экране с помощью жестов."
+}
